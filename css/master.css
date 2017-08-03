@@ -1,0 +1,36 @@
+.contenedor{
+  /*background-color: rgb(242, 246, 219);*/
+  position: absolute;
+  width: 960px;
+  height: 600px;
+  top:100px;
+  left:250px;
+  /*border:3px solid #cd8b27;
+  border-radius: 20px;*/
+}
+
+.header{
+  background-color: red;
+  height: 80px;
+  padding: 0;
+}
+
+.con{
+  width: 960px;
+  background-color: blue;
+  height: 410px;
+}
+
+.body1{
+  background-color: yellow;
+  height: 410px;
+  max-width: 600px;
+}
+
+.footer{
+  width: 100%;
+  background-color: red;
+  height: 100px;
+  padding: 0;
+  position: absolute;
+}
